@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color :cadetblue; */
+    text-align: center;
+    
+}
+.container{
+    height:80%;
+    width : 80%;
+    border : 1px solid black;
+    background-image: linear-gradient(rgb(248, 134, 134), rgb(180, 180, 172));
+}
+
+#sonuc{
+    color:red;
+    font-size: 50px;
+    text-transform: uppercase;
+    margin: 10%;
+    
+}
+
+#check{
+    background-color:blue;
+    color:white;
+    border-radius:15%;
+    padding:1%;
+    width:5rem;
+    box-shadow 30px;
+}
+
+#num{
+    height:30px;
+}
+h1{
+    margin-top:2%;
+}
+
+#lastP{
+    margin-bottom:5%;
+}
